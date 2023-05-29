@@ -39,3 +39,12 @@ The Browser-Sidebar Chat Component relies on the following dependencies:
 - [Prism](https://prismjs.com)
 
 Make sure to install these dependencies before using the component.
+
+##Images
+- **Light Mode**
+<img width="449" alt="image" src="https://github.com/Chandra0804/Browser-Sidebar-Component/assets/97542837/b795e640-d8fe-4903-afd8-ff17c3751936">
+
+- **Dark Mode**
+<img width="449" alt="image" src="https://github.com/Chandra0804/Browser-Sidebar-Component/assets/97542837/4cc4308f-8802-4cec-8a89-b52af9360466">
+
+
