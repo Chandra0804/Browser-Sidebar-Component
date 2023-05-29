@@ -13,8 +13,9 @@ The **Browser-Sidebar Chat Component** is a ReactJS component that provides a re
 1. **Clone the repository**: ```git clone https://github.com/your-username/your-repo.git```
 2. **Navigate to the project directory**: ```cd Browser-Sidebar-Component```
 3. **Install dependencies**: ```npm install```
-4. **Start the development server**: ```npm start```
-5. **Access the application**: Open your browser and visit [http://localhost:3000] to see the chat sidebar component in action.
+4. **Start the server**: ```cd server``` and then ```node server.js```
+5. **Start the development server**: ```npm start```
+6. **Access the application**: Open your browser and visit [http://localhost:3000] to see the chat sidebar component in action.
 
 ## Usage
 
